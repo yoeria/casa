@@ -4,15 +4,15 @@ slug: contact
 title: CONTACT PAGINA
 featuredImage: https://ucarecdn.com/c5fbc91f-a8e0-4a64-9b39-ff43890b2b8b/
 subtitle: Heeft u vragen vul dan gerust het contact formulier in.
-address: 404 James St, Burleigh Heads QLD 4220
-phone: 0987 123 456
-email: example@example.com
+address: Carrer Roure, 32, 03700 Dénia, Alacant, Spain
+phone: "+31620060190"
+email: m.m.balfoort@gmail.com
 locations:
-  - lat: "-27.9654732"
-    lng: "153.2432449"
-    mapLink: ""
+  - lat: ""
+    lng: ""
+    mapLink: https://goo.gl/maps/s4btJu2qNaJadc728
 meta:
-  description: This is a meta description.
+  description: Zoek contact met ons
   title: contact pagina
 ---
 
