@@ -13,7 +13,7 @@ meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-![](https://ucarecdn.com/0c292145-8ea1-4576-b9f1-f7432c40f971/)
+![]()
 
 # Features
 
