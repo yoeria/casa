@@ -1,9 +1,9 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Casa Boutique
+featuredImage: https://ucarecdn.com/9e9457e4-e8f4-4661-b6f2-966c669026ca/
+subtitle: "![]()"
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
