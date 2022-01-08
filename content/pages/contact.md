@@ -3,7 +3,7 @@ template: ContactPage
 slug: contact
 title: Contact Page
 featuredImage: https://ucarecdn.com/c5fbc91f-a8e0-4a64-9b39-ff43890b2b8b/
-subtitle: heeft u vragen of bent u benieuwd vul dan het contact formulier in.
+subtitle: Heeft u vragen vul dan het contact formulier in.
 address: 404 James St, Burleigh Heads QLD 4220
 phone: 0987 123 456
 email: example@example.com
