@@ -1,9 +1,14 @@
 ---
 template: HomePage
 slug: ""
-title: Casa Boutique
-featuredImage: https://ucarecdn.com/9e9457e4-e8f4-4661-b6f2-966c669026ca/
-subtitle: "![]()"
+title: Boutique Casa Panoramica Denia
+featuredImage: https://ucarecdn.com/5d88728c-7d58-475a-a620-547f27dce158/
+subtitle: |-
+  > 1. ![]()
+  >
+  >    ![]()
+  >
+  >    ![]()
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
